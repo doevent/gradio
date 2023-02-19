@@ -8,6 +8,10 @@
 		"click_to_upload": "Нажмите, чтобы загрузить",
 		"view_api": "просмотр api",
 		"built_with_Gradio": "сделано с помощью gradio"
+		"copy_to_clipboard": "копировать в буфер обмена",
+		"loading": "Загрузка",
+		"error": "ОШИБКА",
+		"empty": "Пусто"
 	},
 	"Submit": "Исполнить",
 	"Clear": "Очистить",
